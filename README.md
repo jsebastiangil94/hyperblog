@@ -9,5 +9,7 @@ Un blog de prueba para el curso de Git en Patzi
 * El verdadero amor por las buenas práticas
 * La pasión por aprender
 * Creado por Sebastian Gil
+* Incluye ejemplos en Windows, Linux y Mac
+* Disponible para todas las edades
 
 Tengo un video de videojuego [Ver video](https://www.youtube.com/watch?v=phP_mg2zpcQ)
